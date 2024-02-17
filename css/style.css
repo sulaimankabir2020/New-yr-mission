@@ -1,4 +1,41 @@
-*{
+* {
     margin: 0;
     padding: 0;
+}
+
+.banner {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.second-section {
+    text-align: center;
+    /* padding: 20px; */
+}
+
+.second-section h1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.second-section p {
+    color: #F00;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.second-section h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
